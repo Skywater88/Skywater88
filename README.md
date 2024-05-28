@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skywater88
-- 👀 I’m interested in Maths
+- 👀 I’m interested in Maths and Physics
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Well you can not unless you are important for me...
